@@ -1,0 +1,13 @@
+{
+  "name": "pwa-tutorial",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:yami-beta/pwa-tutorial.git",
+  "author": "yami_beta <yami-beta@users.noreply.github.com>",
+  "scripts": {
+    "watch": "browser-sync start --server 'work' --files 'work' --no-open"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12"
+  }
+}
